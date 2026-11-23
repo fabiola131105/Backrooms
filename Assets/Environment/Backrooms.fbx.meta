@@ -3,7 +3,22 @@ guid: 2e1ec4ce07598fa49a721317f233b04f
 ModelImporter:
   serializedVersion: 24600
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tapiz
+    second: {fileID: 2100000, guid: 64e95c37d78ed764ea8f55824b5fd718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piso
+    second: {fileID: 2100000, guid: 475332d4b6a710648bc15838572a2dd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: techo
+    second: {fileID: 2100000, guid: 4bafbfff9f4e9de45b2f57bfdf5d0352, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
